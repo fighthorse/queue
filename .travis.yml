@@ -1,6 +1,6 @@
 language: go
 sudo: false
-go_import_path: github.com/LyricTian/queue
+go_import_path: github.com/fighthorse/queue
 go:
   - 1.7
 before_install:

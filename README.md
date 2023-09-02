@@ -7,7 +7,7 @@
 ## Get
 
 ``` bash
-go get -u -v github.com/LyricTian/queue
+go get -u -v github.com/fighthorse/queue
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/LyricTian/queue"
+	"github.com/fighthorse/queue"
 )
 
 func main() {
@@ -49,7 +49,7 @@ func main() {
 [Build-Status-Image]: https://travis-ci.org/LyricTian/queue.svg?branch=master
 [codecov-url]: https://codecov.io/gh/LyricTian/queue
 [codecov-image]: https://codecov.io/gh/LyricTian/queue/branch/master/graph/badge.svg
-[ReportCard-Url]: https://goreportcard.com/report/github.com/LyricTian/queue
-[ReportCard-Image]: https://goreportcard.com/badge/github.com/LyricTian/queue
-[GoDoc-Url]: https://godoc.org/github.com/LyricTian/queue
-[GoDoc-Image]: https://godoc.org/github.com/LyricTian/queue?status.svg
+[ReportCard-Url]: https://goreportcard.com/report/github.com/fighthorse/queue
+[ReportCard-Image]: https://goreportcard.com/badge/github.com/fighthorse/queue
+[GoDoc-Url]: https://godoc.org/github.com/fighthorse/queue
+[GoDoc-Image]: https://godoc.org/github.com/fighthorse/queue?status.svg
